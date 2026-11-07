@@ -39,3 +39,9 @@ const shadow = {
   <img src="./assets/mindset-moon.svg" width="49%" alt="Build in silence"/>
   <img src="./assets/mindset-prism.svg" width="49%" alt="See the light in the code"/>
 </p>
+
+## 👁️ Activity <sub>足跡</sub>
+
+<p align="center">
+  <img src="./assets/crows.svg" width="100%" alt="Sharingan absorbing my contributions"/>
+</p>
